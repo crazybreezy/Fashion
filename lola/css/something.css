@@ -1,0 +1,36 @@
+#floats {
+	
+	background-image: url(images/nice1.png);
+}
+#floats #container {
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	border-radius: 20px;
+}
+#box1 {
+	width: 200px;
+	height: 200px;
+	background-image: url(images/img.4.jpg);
+}
+
+.box {
+	background-color: rgba(255, 255, 255, 0.9);
+	height: 400px;
+	width: 800px;
+	border-radius: 20px;
+	margin: 20px 240px 20px 240px;
+
+
+}
+.heading {
+	font-family: freestyle script;
+	font-size: 100px;
+
+}
+.hrtag {
+	height:10px;
+	background-color: #999;
+}
+.tr,td {
+	border-width: 40px;
+}

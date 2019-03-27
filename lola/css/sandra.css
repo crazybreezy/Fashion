@@ -1,0 +1,28 @@
+h1{
+	color: red;
+}
+img{
+	height: 100px;
+	width: 100px;
+}
+p{
+	color: turquoise;
+	margin-left: 90px;
+	margin-top: 90px;
+}
+.brian{
+	color: red;
+}
+.akosua{
+	color: blue;
+}
+.bb{
+	height: 600px;
+	width: 700px;-*
+}
+table,td,th{
+	border: 4px solid black;
+}
+#myself.{
+	background-color:  blue;
+}
